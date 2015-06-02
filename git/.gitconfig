@@ -1,0 +1,20 @@
+[user]
+	name = safari
+	email = sshsfl@yeah.net
+[alias]
+	st = status
+	dif = diff
+	br = branch
+	co = checkout
+	mg = merge
+	lo = log --oneline
+[gui]
+	encoding = utf-8
+[diff]
+	tool = bc3
+[merge]
+	tool = bc3
+[difftool "bc3"]
+	path = D:/SoftwareFiles/BeyondCompare_4/bcomp.exe
+[mergetool "bc3"]
+	path = "D:/SoftwareFiles/BeyondCompare_4/BCompare.exe"
